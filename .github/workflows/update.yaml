@@ -1,4 +1,4 @@
-name: Update
+name: Updated_papers
 
 on:
   label:
@@ -38,8 +38,8 @@ jobs:
         commit-message: '✏️ Update papers automatically.'
         force-add: 'true'
         files: README.md .github/ISSUE_TEMPLATE.md
-        name: Zezhishao
-        email: 864453277@qq.com
+        name: xuzhy
+        email: 3085515593@qq.com
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2
