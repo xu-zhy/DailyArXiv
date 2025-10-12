@@ -1,11 +1,12 @@
 name: Updated_papers
 
 on:
+  workflow_dispatch:
   label:
     types:
       - created # for test
   schedule:
-      - cron: '30 16 * * 0-4' # 00:30 Beijing time every Monday to Friday
+      - cron: '0 8 * * 1-5' # 00:30 Beijing time every Monday to Friday
 
 permissions:
   contents: write
