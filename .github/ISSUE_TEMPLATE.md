@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 23, 2025
+title: Latest 15 Papers - October 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Frequentist Statistical Introduction to Variational Inference, Autoencoders, and Diffusion Models](http://arxiv.org/abs/2510.18777v1)** | 2025-10-21 | <details><summary>This ...</summary><p>This is an introduction paper. 28 pages, 2 figures</p></details> |
-| **[Diffusion Buffer for Online Generative Speech Enhancement](http://arxiv.org/abs/2510.18744v1)** | 2025-10-21 |  |
-| **[RODS: Robust Optimization Inspired Diffusion Sampling for Detecting and Reducing Hallucination in Generative Models](http://arxiv.org/abs/2507.12201v2)** | 2025-10-21 |  |
-| **[ITVTON: Virtual Try-On Diffusion Transformer Based on Integrated Image and Text](http://arxiv.org/abs/2501.16757v3)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted by PRCV 2025</p></details> |
-| **[Improving Diffusion-based Inverse Algorithms under Few-Step Constraint via Learnable Linear Extrapolation](http://arxiv.org/abs/2503.10103v3)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[On Efficiency-Effectiveness Trade-off of Diffusion-based Recommenders](http://arxiv.org/abs/2510.17245v2)** | 2025-10-21 |  |
-| **[RayPose: Ray Bundling Diffusion for Template Views in Unseen 6D Object Pose Estimation](http://arxiv.org/abs/2510.18521v1)** | 2025-10-21 |  |
-| **[REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers](http://arxiv.org/abs/2504.10483v2)** | 2025-10-21 |  |
-| **[The Spacetime of Diffusion Models: An Information Geometry Perspective](http://arxiv.org/abs/2505.17517v2)** | 2025-10-21 |  |
-| **[Uniworld-V2: Reinforce Image Editing with Diffusion Negative-aware Finetuning and MLLM Implicit Feedback](http://arxiv.org/abs/2510.16888v2)** | 2025-10-21 |  |
-| **[How Efficient Are Diffusion Language Models? A Critical Examination of Efficiency Evaluation Practices](http://arxiv.org/abs/2510.18480v1)** | 2025-10-21 |  |
-| **[Vision Foundation Models Can Be Good Tokenizers for Latent Diffusion Models](http://arxiv.org/abs/2510.18457v1)** | 2025-10-21 | <details><summary>Code ...</summary><p>Code and models available at: https://github.com/tianciB/VFM-VAE</p></details> |
-| **[LAND: Lung and Nodule Diffusion for 3D Chest CT Synthesis with Anatomical Guidance](http://arxiv.org/abs/2510.18446v1)** | 2025-10-21 |  |
-| **[Dynamic Diffusion Schrödinger Bridge in Astrophysical Observational Inversions](http://arxiv.org/abs/2506.08065v3)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025. Code available at https://github.com/L-YeZhu/AstroDSB</p></details> |
-| **[Ranking-based Preference Optimization for Diffusion Models from Implicit User Feedback](http://arxiv.org/abs/2510.18353v1)** | 2025-10-21 |  |
+| **[Graph Representation Learning with Diffusion Generative Models](http://arxiv.org/abs/2501.13133v2)** | 2025-10-22 |  |
+| **[Diffusion-Based Hierarchical Graph Neural Networks for Simulating Nonlinear Solid Mechanics](http://arxiv.org/abs/2506.06045v2)** | 2025-10-22 |  |
+| **[Training-Free Constrained Generation With Stable Diffusion Models](http://arxiv.org/abs/2502.05625v4)** | 2025-10-22 | <details><summary>Spotl...</summary><p>Spotlight at the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[A Survey on Cache Methods in Diffusion Models: Toward Efficient Multi-Modal Generation](http://arxiv.org/abs/2510.19755v1)** | 2025-10-22 | 22 pages,2 figures |
+| **[Beyond Masked and Unmasked: Discrete Diffusion Models via Partial Masking](http://arxiv.org/abs/2505.18495v2)** | 2025-10-22 | <details><summary>Publi...</summary><p>Published at NeurIPS 2025. Project Page: https://chen-hao-chao.github.io/mdm-prime</p></details> |
+| **[Uni-Instruct: One-step Diffusion Model through Unified Diffusion Divergence Instruction](http://arxiv.org/abs/2505.20755v4)** | 2025-10-22 |  |
+| **[Decomposing stimulus-specific sensory neural information via diffusion models](http://arxiv.org/abs/2505.11309v2)** | 2025-10-22 | <details><summary>Steev...</summary><p>Steeve Laquitaine and Simone Azeglio have equal contributions; Ulisse Ferrari and Matthew Chalk have equal senior contributions</p></details> |
+| **[dInfer: An Efficient Inference Framework for Diffusion Language Models](http://arxiv.org/abs/2510.08666v3)** | 2025-10-22 |  |
+| **[Efficient Sampling for Realized Variance Estimation in Time-Changed Diffusion Models](http://arxiv.org/abs/2212.11833v4)** | 2025-10-22 |  |
+| **[Limit Theorems for One-Dimensional Homogenized Diffusion Processes](http://arxiv.org/abs/2503.06691v2)** | 2025-10-22 | 30 pages |
+| **[CBDiff:Conditional Bernoulli Diffusion Models for Image Forgery Localization](http://arxiv.org/abs/2510.19597v1)** | 2025-10-22 |  |
+| **[On Efficiency-Effectiveness Trade-off of Diffusion-based Recommenders](http://arxiv.org/abs/2510.17245v3)** | 2025-10-22 |  |
+| **[One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution](http://arxiv.org/abs/2506.15591v3)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted by Neurips2025</p></details> |
+| **[REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers](http://arxiv.org/abs/2504.10483v3)** | 2025-10-22 |  |
+| **[Evolution of Conditional Entropy for Diffusion Dynamics on Graphs](http://arxiv.org/abs/2510.19441v1)** | 2025-10-22 |  |
 
 ## Locomotion
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,14 @@ labels: documentation
 ## Imitation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Action Tokenizer Matters in In-Context Imitation Learning](http://arxiv.org/abs/2503.01206v3)** | 2025-10-22 | IROS 2025 |
+| **[Using Non-Expert Data to Robustify Imitation Learning via Offline Reinforcement Learning](http://arxiv.org/abs/2510.19495v1)** | 2025-10-22 |  |
+| **[Imitation Learning Policy based on Multi-Step Consistent Integration Shortcut Model](http://arxiv.org/abs/2510.19356v1)** | 2025-10-22 |  |
+| **[Unified Reinforcement and Imitation Learning for Vision-Language Models](http://arxiv.org/abs/2510.19307v1)** | 2025-10-22 | <details><summary>NeurI...</summary><p>NeurIPS 2025, Project page: https://byungkwanlee.github.io/RIL-page</p></details> |
+| **[On the Importance of Tactile Sensing for Imitation Learning: A Case Study on Robotic Match Lighting](http://arxiv.org/abs/2504.13618v2)** | 2025-10-22 |  |
+| **[ComDrive: Comfort-Oriented End-to-End Autonomous Driving](http://arxiv.org/abs/2410.05051v2)** | 2025-10-22 | IROS 2025 |
+| **[Flow with the Force Field: Learning 3D Compliant Flow Matching Policies from Force and Demonstration-Guided Simulation Data](http://arxiv.org/abs/2510.02738v2)** | 2025-10-22 |  |
+| **[VO-DP: Semantic-Geometric Adaptive Diffusion Policy for Vision-Only Robotic Manipulation](http://arxiv.org/abs/2510.15530v2)** | 2025-10-22 |  |
 | **[Inverse Q-Learning Done Right: Offline Imitation Learning in $Q^π$-Realizable MDPs](http://arxiv.org/abs/2505.19946v3)** | 2025-10-21 |  |
 | **[MoMaGen: Generating Demonstrations under Soft and Hard Constraints for Multi-Step Bimanual Mobile Manipulation](http://arxiv.org/abs/2510.18316v1)** | 2025-10-21 | <details><summary>Proje...</summary><p>Project website: momagen.github.io. The first four authors contribute equally</p></details> |
 | **[RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning](http://arxiv.org/abs/2502.13144v2)** | 2025-10-21 | <details><summary>Code:...</summary><p>Code: https://github.com/hustvl/RAD</p></details> |
@@ -52,12 +60,4 @@ labels: documentation
 | **[SPACeR: Self-Play Anchoring with Centralized Reference Models](http://arxiv.org/abs/2510.18060v1)** | 2025-10-20 | <details><summary>Proje...</summary><p>Project page: https://spacer-ai.github.io/</p></details> |
 | **[RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation](http://arxiv.org/abs/2510.17640v1)** | 2025-10-20 | <details><summary>9 pag...</summary><p>9 pages,7 figures, submitted to ICRA2026</p></details> |
 | **[Plasma Shape Control via Zero-shot Generative Reinforcement Learning](http://arxiv.org/abs/2510.17531v1)** | 2025-10-20 |  |
-| **[DARIL: When Imitation Learning outperforms Reinforcement Learning in Surgical Action Planning](http://arxiv.org/abs/2507.05011v3)** | 2025-10-20 | <details><summary>Paper...</summary><p>Paper accepted at the MICCAI2025 workshop proceedings on COLlaborative Intelligence and Autonomy in Image-guided Surgery (COLAS)</p></details> |
-| **[Decentralized Real-Time Planning for Multi-UAV Cooperative Manipulation via Imitation Learning](http://arxiv.org/abs/2510.17143v1)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted by IEEE MRS 2025</p></details> |
-| **[Buzz, Choose, Forget: A Meta-Bandit Framework for Bee-Like Decision Making](http://arxiv.org/abs/2510.16462v1)** | 2025-10-18 |  |
-| **[Learning to Optimize Edge Robotics: A Fast Integrated Perception-Motion-Communication Approach](http://arxiv.org/abs/2510.16424v1)** | 2025-10-18 |  |
-| **[VO-DP: Semantic-Geometric Adaptive Diffusion Policy for Vision-Only Robotic Manipulation](http://arxiv.org/abs/2510.15530v1)** | 2025-10-17 |  |
-| **[Exploring Conditions for Diffusion models in Robotic Control](http://arxiv.org/abs/2510.15510v1)** | 2025-10-17 | <details><summary>Proje...</summary><p>Project page: https://orca-rc.github.io/</p></details> |
-| **[Perfect Prediction or Plenty of Proposals? What Matters Most in Planning for Autonomous Driving](http://arxiv.org/abs/2510.15505v1)** | 2025-10-17 | 8 pages, 5 figures |
-| **[Learning to Answer from Correct Demonstrations](http://arxiv.org/abs/2510.15464v1)** | 2025-10-17 | Comments are welcome |
 
