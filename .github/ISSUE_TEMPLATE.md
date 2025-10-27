@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 27, 2025
+title: Latest 15 Papers - October 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,26 @@ labels: documentation
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling](http://arxiv.org/abs/2505.13358v3)** | 2025-10-23 |  |
-| **[Towards General Modality Translation with Contrastive and Predictive Latent Diffusion Bridge](http://arxiv.org/abs/2510.20819v1)** | 2025-10-23 |  |
-| **[BadGraph: A Backdoor Attack Against Latent Diffusion Model for Text-Guided Graph Generation](http://arxiv.org/abs/2510.20792v1)** | 2025-10-23 |  |
-| **[DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion](http://arxiv.org/abs/2510.20766v1)** | 2025-10-23 |  |
-| **[Blockwise SFT for Diffusion Language Models: Reconciling Bidirectional Attention and Autoregressive Decoding](http://arxiv.org/abs/2508.19529v2)** | 2025-10-23 |  |
-| **[Sampling from multi-modal distributions with polynomial query complexity in fixed dimension via reverse diffusion](http://arxiv.org/abs/2501.00565v3)** | 2025-10-23 |  |
-| **[Downsizing Diffusion Models for Cardinality Estimation](http://arxiv.org/abs/2510.20681v1)** | 2025-10-23 |  |
-| **[Diffusion Autoencoders with Perceivers for Long, Irregular and Multimodal Astronomical Sequences](http://arxiv.org/abs/2510.20595v1)** | 2025-10-23 |  |
-| **[EchoDistill: Bidirectional Concept Distillation for One-Step Diffusion Personalization](http://arxiv.org/abs/2510.20512v1)** | 2025-10-23 | <details><summary>Proje...</summary><p>Project page available at https://liulisixin.github.io/EchoDistill-page/</p></details> |
-| **[Stochastic evolution equations with nonlinear diffusivity, recent progress and critical cases](http://arxiv.org/abs/2510.20471v1)** | 2025-10-23 | <details><summary>14 pa...</summary><p>14 pages, 75 references</p></details> |
-| **[Continuous Diffusion Model for Language Modeling](http://arxiv.org/abs/2502.11564v2)** | 2025-10-23 | NeurIPS 2025 |
-| **[FairGen: Enhancing Fairness in Text-to-Image Diffusion Models via Self-Discovering Latent Directions](http://arxiv.org/abs/2412.18810v3)** | 2025-10-23 |  |
-| **[VO-DP: Semantic-Geometric Adaptive Diffusion Policy for Vision-Only Robotic Manipulation](http://arxiv.org/abs/2510.15530v3)** | 2025-10-23 |  |
-| **[A Survey on Cache Methods in Diffusion Models: Toward Efficient Multi-Modal Generation](http://arxiv.org/abs/2510.19755v2)** | 2025-10-23 | 22 pages,2 figures |
-| **[AccuQuant: Simulating Multiple Denoising Steps for Quantizing Diffusion Models](http://arxiv.org/abs/2510.20348v1)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
+| **[Visual Diffusion Models are Geometric Solvers](http://arxiv.org/abs/2510.21697v1)** | 2025-10-24 | <details><summary>Proje...</summary><p>Project page: https://kariander1.github.io/visual-geo-solver/</p></details> |
+| **[System-Embedded Diffusion Bridge Models](http://arxiv.org/abs/2506.23726v2)** | 2025-10-24 | NeurIPS 2025 |
+| **[Diffusing DeBias: Synthetic Bias Amplification for Model Debiasing](http://arxiv.org/abs/2502.09564v5)** | 2025-10-24 | <details><summary>18 Pa...</summary><p>18 Pages, 9 Figures; Accepted at NeurIPS2025 (Poster)</p></details> |
+| **[Fast and Fluent Diffusion Language Models via Convolutional Decoding and Rejective Fine-tuning](http://arxiv.org/abs/2509.15188v3)** | 2025-10-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025 spotlight</p></details> |
+| **[MRO: Enhancing Reasoning in Diffusion Language Models via Multi-Reward Optimization](http://arxiv.org/abs/2510.21473v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[Revisiting Multi-Agent World Modeling from a Diffusion-Inspired Perspective](http://arxiv.org/abs/2505.20922v2)** | 2025-10-24 | Accepted at NIPS'25 |
+| **[LipDiffuser: Lip-to-Speech Generation with Conditional Diffusion Models](http://arxiv.org/abs/2505.11391v3)** | 2025-10-24 |  |
+| **[ScoreMix: Synthetic Data Generation by Score Composition in Diffusion Models Improves Recognition](http://arxiv.org/abs/2506.10226v2)** | 2025-10-24 | <details><summary>Exten...</summary><p>Extended version of ICMLw25 Oral</p></details> |
+| **[Self-diffusion for Solving Inverse Problems](http://arxiv.org/abs/2510.21417v1)** | 2025-10-24 |  |
+| **[Low-Complexity MIMO Channel Estimation with Latent Diffusion Models](http://arxiv.org/abs/2510.21386v1)** | 2025-10-24 |  |
+| **[BADiff: Bandwidth Adaptive Diffusion Model](http://arxiv.org/abs/2510.21366v1)** | 2025-10-24 | NeurIPS 2025 Poster |
+| **[Compositional Monte Carlo Tree Diffusion for Extendable Planning](http://arxiv.org/abs/2510.21361v1)** | 2025-10-24 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, NeurIPS 25 Spotlight</p></details> |
+| **[Text-Guided Diffusion Model-based Generative Communication for Wireless Image Transmission](http://arxiv.org/abs/2510.21299v1)** | 2025-10-24 | <details><summary>submi...</summary><p>submitted to IEEE journal</p></details> |
+| **[Fast Monte Carlo Tree Diffusion: 100x Speedup via Parallel Sparse Planning](http://arxiv.org/abs/2506.09498v4)** | 2025-10-24 | <details><summary>20 pa...</summary><p>20 pages, 6 figures, NeurIPS 25 Spotlight</p></details> |
+| **[Topology Sculptor, Shape Refiner: Discrete Diffusion Model for High-Fidelity 3D Meshes Generation](http://arxiv.org/abs/2510.21264v1)** | 2025-10-24 |  |
 
 ## Locomotion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Load-bearing Assessment for Safe Locomotion of Quadruped Robots on Collapsing Terrain](http://arxiv.org/abs/2510.21369v1)** | 2025-10-24 |  |
 | **[Reinforcement Learning-based Robust Wall Climbing Locomotion Controller in Ferromagnetic Environment](http://arxiv.org/abs/2510.20174v1)** | 2025-10-23 | 8 pages, 6 figures |
 | **[Towards An Adaptive Locomotion Strategy For Quadruped Rovers: Quantifying When To Slide Or Walk On Planetary Slopes](http://arxiv.org/abs/2510.18678v1)** | 2025-10-21 | <details><summary>Publi...</summary><p>Published at the 18th Symposium on Advanced Space Technologies in Robotics and Automation (ASTRA 2025)</p></details> |
 | **[PGTT: Phase-Guided Terrain Traversal for Perceptive Legged Locomotion](http://arxiv.org/abs/2510.18348v1)** | 2025-10-21 | <details><summary>9 pag...</summary><p>9 pages, 9 figures, 2 tables</p></details> |
@@ -40,24 +41,9 @@ labels: documentation
 | **[Preference-Conditioned Multi-Objective RL for Integrated Command Tracking and Force Compliance in Humanoid Locomotion](http://arxiv.org/abs/2510.10851v1)** | 2025-10-12 |  |
 | **[Gain Tuning Is Not What You Need: Reward Gain Adaptation for Constrained Locomotion Learning](http://arxiv.org/abs/2510.10759v1)** | 2025-10-12 | RSS 2025 |
 | **[ATRos: Learning Energy-Efficient Agile Locomotion for Wheeled-legged Robots](http://arxiv.org/abs/2510.09980v1)** | 2025-10-11 | <details><summary>4 pag...</summary><p>4 pages, 2 figures, submitted to IROS 2025 wheeled-legged workshop</p></details> |
-| **[Dynamic Quadrupedal Legged and Aerial Locomotion via Structure Repurposing](http://arxiv.org/abs/2510.09526v1)** | 2025-10-10 |  |
 
 ## Imitation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PointMapPolicy: Structured Point Cloud Processing for Multi-Modal Imitation Learning](http://arxiv.org/abs/2510.20406v1)** | 2025-10-23 |  |
-| **[VO-DP: Semantic-Geometric Adaptive Diffusion Policy for Vision-Only Robotic Manipulation](http://arxiv.org/abs/2510.15530v3)** | 2025-10-23 |  |
-| **[CE-Nav: Flow-Guided Reinforcement Refinement for Cross-Embodiment Local Navigation](http://arxiv.org/abs/2509.23203v2)** | 2025-10-23 | <details><summary>Proje...</summary><p>Project Page: https://ce-nav.github.io/. Code is available at https://github.com/amap-cvlab/CE-Nav</p></details> |
-| **[Approximate Model Predictive Control for Microgrid Energy Management via Imitation Learning](http://arxiv.org/abs/2510.20040v1)** | 2025-10-22 | <details><summary>Submi...</summary><p>Submitted to Engineering Applications of Artificial Intelligence (EAAI) and IFAC WC 2026</p></details> |
-| **[Action Tokenizer Matters in In-Context Imitation Learning](http://arxiv.org/abs/2503.01206v3)** | 2025-10-22 | IROS 2025 |
-| **[Using Non-Expert Data to Robustify Imitation Learning via Offline Reinforcement Learning](http://arxiv.org/abs/2510.19495v1)** | 2025-10-22 |  |
-| **[Imitation Learning Policy based on Multi-Step Consistent Integration Shortcut Model](http://arxiv.org/abs/2510.19356v1)** | 2025-10-22 |  |
-| **[Unified Reinforcement and Imitation Learning for Vision-Language Models](http://arxiv.org/abs/2510.19307v1)** | 2025-10-22 | <details><summary>NeurI...</summary><p>NeurIPS 2025, Project page: https://byungkwanlee.github.io/RIL-page</p></details> |
-| **[On the Importance of Tactile Sensing for Imitation Learning: A Case Study on Robotic Match Lighting](http://arxiv.org/abs/2504.13618v2)** | 2025-10-22 |  |
-| **[ComDrive: Comfort-Oriented End-to-End Autonomous Driving](http://arxiv.org/abs/2410.05051v2)** | 2025-10-22 | IROS 2025 |
-| **[Flow with the Force Field: Learning 3D Compliant Flow Matching Policies from Force and Demonstration-Guided Simulation Data](http://arxiv.org/abs/2510.02738v2)** | 2025-10-22 |  |
-| **[Inverse Q-Learning Done Right: Offline Imitation Learning in $Q^π$-Realizable MDPs](http://arxiv.org/abs/2505.19946v3)** | 2025-10-21 |  |
-| **[MoMaGen: Generating Demonstrations under Soft and Hard Constraints for Multi-Step Bimanual Mobile Manipulation](http://arxiv.org/abs/2510.18316v1)** | 2025-10-21 | <details><summary>Proje...</summary><p>Project website: momagen.github.io. The first four authors contribute equally</p></details> |
-| **[RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning](http://arxiv.org/abs/2502.13144v2)** | 2025-10-21 | <details><summary>Code:...</summary><p>Code: https://github.com/hustvl/RAD</p></details> |
-| **[R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations](http://arxiv.org/abs/2510.18085v1)** | 2025-10-20 | 9 pages, 6 figures |
+| **[Reinforcement Learning with Action Chunking](http://arxiv.org/abs/2507.07969v3)** | 2025-10-24 | <details><summary>The T...</summary><p>The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025); 36 pages, 17 figures</p></details> |
 
