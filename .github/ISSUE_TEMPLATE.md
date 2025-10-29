@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 29, 2025
+title: Latest 15 Papers - October 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Diffusion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Variational Masked Diffusion Models](http://arxiv.org/abs/2510.23606v1)** | 2025-10-27 | <details><summary>Proje...</summary><p>Project Page: https://riccizz.github.io/VMD</p></details> |
-| **[More Than Generation: Unifying Generation and Depth Estimation via Text-to-Image Diffusion Models](http://arxiv.org/abs/2510.23574v1)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025. The code will be made available at https://github.com/H-EmbodVis/MERGE</p></details> |
-| **[Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis](http://arxiv.org/abs/2411.16503v2)** | 2025-10-27 | <details><summary>Updat...</summary><p>Updated author formatting; no substantive changes</p></details> |
-| **[DmC: Nearest Neighbor Guidance Diffusion Model for Offline Cross-domain Reinforcement Learning](http://arxiv.org/abs/2507.20499v2)** | 2025-10-27 | <details><summary>accep...</summary><p>accepted at ECAI 2025; offline cross-domain reinforcement learning with a guided diffusion model;</p></details> |
-| **[Topology Sculptor, Shape Refiner: Discrete Diffusion Model for High-Fidelity 3D Meshes Generation](http://arxiv.org/abs/2510.21264v2)** | 2025-10-27 |  |
-| **[Yesnt: Are Diffusion Relighting Models Ready for Capture Stage Compositing? A Hybrid Alternative to Bridge the Gap](http://arxiv.org/abs/2510.23494v1)** | 2025-10-27 |  |
-| **[An Efficient Remote Sensing Super Resolution Method Exploring Diffusion Priors and Multi-Modal Constraints for Crop Type Mapping](http://arxiv.org/abs/2510.23382v1)** | 2025-10-27 | 41 pages |
-| **[Adaptive Stochastic Coefficients for Accelerating Diffusion Sampling](http://arxiv.org/abs/2510.23285v1)** | 2025-10-27 | <details><summary>To ap...</summary><p>To appear in NeurIPS 2025</p></details> |
-| **[Deep Active Inference with Diffusion Policy and Multiple Timescale World Model for Real-World Exploration and Navigation](http://arxiv.org/abs/2510.23258v1)** | 2025-10-27 | Preprint version |
-| **[Model-free filtering in high dimensions via projection and score-based diffusions](http://arxiv.org/abs/2510.23197v1)** | 2025-10-27 |  |
-| **[Physics-informed diffusion models for extrapolating crystal structures beyond known motifs](http://arxiv.org/abs/2510.23181v1)** | 2025-10-27 |  |
-| **[Diffusion Generative Modeling on Lie Group Representations](http://arxiv.org/abs/2502.02513v2)** | 2025-10-27 | <details><summary>29 pa...</summary><p>29 pages. Accepted as a spotlight paper at NeurIPS 2025</p></details> |
-| **[Residual Diffusion Bridge Model for Image Restoration](http://arxiv.org/abs/2510.23116v1)** | 2025-10-27 |  |
-| **[LLM Meets Diffusion: A Hybrid Framework for Crystal Material Generation](http://arxiv.org/abs/2510.23040v1)** | 2025-10-27 | NeurIPS 2025 |
-| **[Mixed Density Diffuser: Efficient Planning with Non-uniform Temporal Resolution](http://arxiv.org/abs/2510.23026v1)** | 2025-10-27 | <details><summary>Europ...</summary><p>European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESSAN) (under review)</p></details> |
+| **[Uniform Discrete Diffusion with Metric Path for Video Generation](http://arxiv.org/abs/2510.24717v1)** | 2025-10-28 | 19 pages, 10 figures |
+| **[Routing Matters in MoE: Scaling Diffusion Transformers with Explicit Routing Guidance](http://arxiv.org/abs/2510.24711v1)** | 2025-10-28 |  |
+| **[Reduced Basis Approach for Convection-Diffusion Equations with Non-Linear Boundary Reaction Conditions](http://arxiv.org/abs/2510.24632v1)** | 2025-10-28 |  |
+| **[Diffusion LLM with Native Variable Generation Lengths: Let [EOS] Lead the Way](http://arxiv.org/abs/2510.24605v1)** | 2025-10-28 |  |
+| **[Unbiased likelihood estimation of the Langevin diffusion for animal movement modelling](http://arxiv.org/abs/2510.24539v1)** | 2025-10-28 |  |
+| **[Diffusion Models for Wireless Transceivers: From Pilot-Efficient Channel Estimation to AI-Native 6G Receivers](http://arxiv.org/abs/2510.24495v1)** | 2025-10-28 | <details><summary>Submi...</summary><p>Submitted for potential publication in IEEE Wireless Communications</p></details> |
+| **[Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies](http://arxiv.org/abs/2508.20072v2)** | 2025-10-28 | 16 pages |
+| **[Pair Approximation Meets Reality: Diffusion of Innovation in Organizational Networks within the biased-independence q-Voter Model](http://arxiv.org/abs/2510.24447v1)** | 2025-10-28 | 13 pages, 5 figures |
+| **[Why Diffusion Models Don't Memorize: The Role of Implicit Dynamical Regularization in Training](http://arxiv.org/abs/2505.17638v2)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted as an oral at Neurips 2025. 40 pages, 15 figures</p></details> |
+| **[Diffusion Models Meet Contextual Bandits](http://arxiv.org/abs/2402.10028v3)** | 2025-10-28 | Neurips 2025 |
+| **[Beyond Inference Intervention: Identity-Decoupled Diffusion for Face Anonymization](http://arxiv.org/abs/2510.24213v1)** | 2025-10-28 |  |
+| **[ETC: training-free diffusion models acceleration with Error-aware Trend Consistency](http://arxiv.org/abs/2510.24129v1)** | 2025-10-28 | 17 pages, 10 figures |
+| **[Information-Theoretic Discrete Diffusion](http://arxiv.org/abs/2510.24088v1)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[VSA: Faster Video Diffusion with Trainable Sparse Attention](http://arxiv.org/abs/2505.13389v5)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted by Neurips 2025</p></details> |
+| **[Unveiling Concept Attribution in Diffusion Models](http://arxiv.org/abs/2412.02542v3)** | 2025-10-28 |  |
 
 ## Locomotion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Quadrupedal Jumping and Walking for Dynamic Locomotion using Reinforcement Learning](http://arxiv.org/abs/2510.24584v1)** | 2025-10-28 | 8 pages |
+| **[VOCALoco: Viability-Optimized Cost-aware Adaptive Locomotion](http://arxiv.org/abs/2510.23997v1)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted in IEEE Robotics and Automation Letters (RAL), 2025. 8 pages, 9 figures</p></details> |
+| **[Spatial Orchestra: Locomotion Music Instruments through Spatial Exploration](http://arxiv.org/abs/2510.23848v1)** | 2025-10-27 | <details><summary>Exten...</summary><p>Extended Abstracts (Interactivity), 5 pages. Published at the 2024 CHI Conference on Human Factors in Computing Systems</p></details> |
+| **[Reality Distortion Room: A Study of User Locomotion Responses to Spatial Augmented Reality Effects](http://arxiv.org/abs/2510.23840v1)** | 2025-10-27 | <details><summary>Confe...</summary><p>Conference Paper, 10 pages. Published at the 2023 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)</p></details> |
 | **[Step2Motion: Locomotion Reconstruction from Pressure Sensing Insoles](http://arxiv.org/abs/2510.22712v1)** | 2025-10-26 |  |
 | **[Adversarial Locomotion and Motion Imitation for Humanoid Policy Learning](http://arxiv.org/abs/2504.14305v3)** | 2025-10-26 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Code: https://github.com/TeleHuman/ALMI-Open, Dataset: https://huggingface.co/datasets/TeleEmbodied/ALMI-X</p></details> |
 | **[Load-bearing Assessment for Safe Locomotion of Quadruped Robots on Collapsing Terrain](http://arxiv.org/abs/2510.21369v1)** | 2025-10-24 |  |
@@ -37,14 +41,17 @@ labels: documentation
 | **[From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance](http://arxiv.org/abs/2510.14952v2)** | 2025-10-17 |  |
 | **[Adaptive Legged Locomotion via Online Learning for Model Predictive Control](http://arxiv.org/abs/2510.15626v1)** | 2025-10-17 | 9 pages |
 | **[Risk-Aware Reinforcement Learning with Bandit-Based Adaptation for Quadrupedal Locomotion](http://arxiv.org/abs/2510.14338v1)** | 2025-10-16 |  |
-| **[Bridge the Gap: Enhancing Quadruped Locomotion with Vertical Ground Perturbations](http://arxiv.org/abs/2510.13488v1)** | 2025-10-15 |  |
-| **[PolygMap: A Perceptive Locomotion Framework for Humanoid Robot Stair Climbing](http://arxiv.org/abs/2510.12346v1)** | 2025-10-14 |  |
-| **[Guiding Energy-Efficient Locomotion through Impact Mitigation Rewards](http://arxiv.org/abs/2510.09543v2)** | 2025-10-13 |  |
-| **[Preference-Conditioned Multi-Objective RL for Integrated Command Tracking and Force Compliance in Humanoid Locomotion](http://arxiv.org/abs/2510.10851v1)** | 2025-10-12 |  |
 
 ## Imitation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fare: Failure Resilience in Learned Visual Navigation Control](http://arxiv.org/abs/2510.24680v1)** | 2025-10-28 |  |
+| **[Advancing site-specific disease and pest management in precision agriculture: From reasoning-driven foundation models to adaptive, feedback-based learning](http://arxiv.org/abs/2510.24650v1)** | 2025-10-28 | <details><summary>26 pa...</summary><p>26 pages, 8 figures, and 2 tables</p></details> |
+| **[Procedural Generation of Articulated Simulation-Ready Assets](http://arxiv.org/abs/2505.10755v3)** | 2025-10-28 | <details><summary>Updat...</summary><p>Updated to include information on newly implemented assets, new experimental results (both simulation and real world), and additional features including material and dynamics parameters</p></details> |
+| **[ZTRS: Zero-Imitation End-to-end Autonomous Driving with Trajectory Scoring](http://arxiv.org/abs/2510.24108v1)** | 2025-10-28 |  |
+| **[Language-Conditioned Representations and Mixture-of-Experts Policy for Robust Multi-Task Robotic Manipulation](http://arxiv.org/abs/2510.24055v1)** | 2025-10-28 | 8 pages |
+| **[COMPASS: Cross-embodiment Mobility Policy via Residual RL and Skill Synthesis](http://arxiv.org/abs/2502.16372v3)** | 2025-10-27 |  |
+| **[Structured Reinforcement Learning for Combinatorial Decision-Making](http://arxiv.org/abs/2505.19053v2)** | 2025-10-27 | <details><summary>29 pa...</summary><p>29 pages, 8 figures, accepted at the 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 | **[World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training](http://arxiv.org/abs/2509.24948v2)** | 2025-10-27 |  |
 | **[On the Importance of Tactile Sensing for Imitation Learning: A Case Study on Robotic Match Lighting](http://arxiv.org/abs/2504.13618v3)** | 2025-10-27 |  |
 | **[Finding 3D Scene Analogies with Multimodal Foundation Models](http://arxiv.org/abs/2510.23184v1)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted to FM4RoboPlan workshop at RSS 2025</p></details> |
@@ -53,11 +60,4 @@ labels: documentation
 | **[Edge Collaborative Gaussian Splatting with Integrated Rendering and Communication](http://arxiv.org/abs/2510.22718v1)** | 2025-10-26 | <details><summary>5 pag...</summary><p>5 pages and 7 figures, submitted for possible publication</p></details> |
 | **[FastVLM: Self-Speculative Decoding for Fast Vision-Language Model Inference](http://arxiv.org/abs/2510.22641v1)** | 2025-10-26 | <details><summary>Accep...</summary><p>Accepted for presentation at the main Conference IJCNLP-AACL 2025</p></details> |
 | **[TreeIRL: Safe Urban Driving with Tree Search and Inverse Reinforcement Learning](http://arxiv.org/abs/2509.13579v4)** | 2025-10-25 |  |
-| **[ACG: Action Coherence Guidance for Flow-based VLA models](http://arxiv.org/abs/2510.22201v1)** | 2025-10-25 |  |
-| **[CCDP: Composition of Conditional Diffusion Policies with Guided Sampling](http://arxiv.org/abs/2503.15386v3)** | 2025-10-25 | <details><summary>Accep...</summary><p>Accepted to IROS 2025</p></details> |
-| **[Raw2Drive: Reinforcement Learning with Aligned World Models for End-to-End Autonomous Driving (in CARLA v2)](http://arxiv.org/abs/2505.16394v2)** | 2025-10-25 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[Using Non-Expert Data to Robustify Imitation Learning via Offline Reinforcement Learning](http://arxiv.org/abs/2510.19495v2)** | 2025-10-25 |  |
-| **[Reinforcement Learning with Action Chunking](http://arxiv.org/abs/2507.07969v3)** | 2025-10-24 | <details><summary>The T...</summary><p>The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025); 36 pages, 17 figures</p></details> |
-| **[RESample: A Robust Data Augmentation Framework via Exploratory Sampling for Robotic Manipulation](http://arxiv.org/abs/2510.17640v2)** | 2025-10-24 | <details><summary>9 pag...</summary><p>9 pages,7 figures, submitted to ICRA2026</p></details> |
-| **[BEAST: Efficient Tokenization of B-Splines Encoded Action Sequences for Imitation Learning](http://arxiv.org/abs/2506.06072v3)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 
